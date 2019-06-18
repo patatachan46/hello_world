@@ -1,6 +1,6 @@
 Name
 ====
-Ruby on Rails チュートリアル
+hello_world
 
 
 ## Description
