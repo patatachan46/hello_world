@@ -1,7 +1,12 @@
-# Ruby on Rails Tutorial
+Name
+====
+Ruby on Rails チュートリアル
 
-## "hello, world!"
 
-This is the first application for the
-[*Ruby on Rails Tutorial*](https://railstutorial.jp/)
-by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
+## Description
+Ruby on Railsの学習で使用したサイト。<br>
+
+サイト名：　 　Ruby on Rails チュートリアル</br>
+サイトURL： 　https://railstutorial.jp/chapters/beginning?version=5.1#cha-beginning/</br>
+
+内容：　Ruby on Railsを使ってhello worldを出力するアプリを作成。
